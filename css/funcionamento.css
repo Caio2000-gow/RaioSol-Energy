@@ -6,7 +6,7 @@ html, body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    background: url('/imagens/funcionamento_background.jpg') no-repeat center fixed;
+    background: url('imagens/funcionamento_background.jpg') no-repeat center fixed;
   background-size: cover;
 }
 
@@ -207,4 +207,5 @@ footer {
     .descricao p {
         font-size: 1rem;
     }
+
 }
